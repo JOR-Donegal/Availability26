@@ -1,5 +1,2 @@
-# MKTemplate
-Template for new teaching notes
-
-1. Edit mkdocs to name the project and add a URL
-2. 
+# Availability rewrite 2026
+1. These notes are in Orange, matching PGDip HCT
